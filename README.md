@@ -2,11 +2,16 @@
 
 Hi, I'm Nithin.
 
-I currently work as an L1 Support Analyst and am transitioning toward Python Development, AI, and Data Analytics.
+I currently work as an L1 Support Analyst and am transitioning toward
+Python Development, Data Analytics, Data Science, and AI.
 
 ## About This Repository
 
-This repository contains my Python learning journey, practice exercises, and mini-projects. It is organized topic by topic as I progress from Python fundamentals toward Data Analytics, AI, and Data Science.
+This repository documents my Python learning journey through practice
+exercises, problem-solving, and mini-projects.
+
+It is organized topic by topic as I build my Python foundation and
+progress toward Data Analytics, Data Science, and AI.
 
 ## Topics Completed
 
@@ -20,30 +25,53 @@ This repository contains my Python learning journey, practice exercises, and min
   - Generator Expressions
   - Functional Programming
   - Recursion
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- Regular Expressions (`re`)
+- File Handling
+- `datetime`
+- `itertools`
+- `os`
+- `os.path`
+- `pathlib`
+- `collections`
 
 ## Current Focus
 
 - Python Problem Solving
 - Git & GitHub
+- Python Standard Library
+- NumPy
+- Pandas
+- Matplotlib
 - Building Mini Projects
 
 ## Upcoming Topics
 
-- Object-Oriented Programming (OOP)
-- File Handling
-- Exception Handling
 - SQL
-- NumPy
-- Pandas
 - Data Analysis
+- Statistics
 - Data Science
+- Machine Learning
+- AI
 
 ## Repository Structure
 
 ```text
-python-projects/
+python-learning-journey/
 ├── basics/
 ├── collections/
+├── collections_module/
+├── datetime/
+├── exception_handling/
+├── file_handling/
 ├── functions/
-├── mini-projects/
+├── itertools/
+├── oop/
+├── os/
+│   └── os.path/
+├── pathlib/
+├── practice2/
+├── projects/
+├── re/
 └── README.md
